@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalratta
-- 👀 I’m interested in ... blockchain
+- 👀 I’m interested in ... nodejs/blockchain 
 - 🌱 I’m currently learning ...web3,metaverse
 - 📫 How to reach me ...
 - linked in-https://www.linkedin.com/in/vishal-mendiratta-912a34183/
