@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalratta" alt="vishalratta" /></a> </p>
 
-- 🔭 I’m currently working at [Uniblok tech]()
+- 🔭 I’m currently working at [Smartworks]()
 
 - 🌱 I’m currently learning **no code developement and ai** 
 
